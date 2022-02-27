@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-nft-challenge/static/css/main.c4090df9.css",
+    "main.js": "/react-nft-challenge/static/js/main.a17caf81.js",
+    "static/js/787.c20165fc.chunk.js": "/react-nft-challenge/static/js/787.c20165fc.chunk.js",
+    "static/media/weth.png": "/react-nft-challenge/static/media/weth.4101f1dacb92484cfd3f.png",
+    "static/media/cryptopunk-logo.png": "/react-nft-challenge/static/media/cryptopunk-logo.8bee49d57faa44bb66f5.png",
+    "index.html": "/react-nft-challenge/index.html",
+    "main.c4090df9.css.map": "/react-nft-challenge/static/css/main.c4090df9.css.map",
+    "main.a17caf81.js.map": "/react-nft-challenge/static/js/main.a17caf81.js.map",
+    "787.c20165fc.chunk.js.map": "/react-nft-challenge/static/js/787.c20165fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4090df9.css",
+    "static/js/main.a17caf81.js"
+  ]
+}
